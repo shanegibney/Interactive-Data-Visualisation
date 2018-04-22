@@ -1,6 +1,6 @@
 # D3 v4 Dashboard - Interactive Data Visualisation
 
-gh-pages [dmeo](https://shanegibney.github.io/Interactive-Data-Visualisation/)
+gh-pages [demo](https://shanegibney.github.io/Interactive-Data-Visualisation/)
 
 How to use:
 
